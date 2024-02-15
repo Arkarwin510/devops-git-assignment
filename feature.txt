@@ -1,0 +1,5 @@
+This is a new feature
+
+This text file is created for Devops Assignment.
+
+Hello everyone, Nice to meet you all.
