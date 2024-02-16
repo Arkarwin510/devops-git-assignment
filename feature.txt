@@ -5,3 +5,5 @@ This text file is created for Devops Assignment.
 Hello everyone, Nice to meet you all.
 
 This line is changed in pull request stage.
+
+Added new feature for authentication in feature_auth.txt.
