@@ -7,3 +7,5 @@ Hello everyone, Nice to meet you all.
 This line is changed in pull request stage.
 
 Added new feature for authentication in feature_auth.txt.
+
+Added new feature for PaymentGateway in feature_payment.txt.
